@@ -4,7 +4,7 @@ Thank you to all the contributors who participated in Hacktoberfest 2023!
 
 <!-- List the contributors' names and links to their profiles below -->
 - [Contributor 1](https://github.com/hendrafebris)
-- [Contributor 2](https://github.com/contributor2)
+- [Contributor 2](https://github.com/contributor22)
 - [Contributor 3](https://github.com/contributor3)
 - ...
 
